@@ -2,6 +2,9 @@
 ## Opis
 Moja pierwsza gra stworzona przy użyciu środowiska Unity w języku C#.<br>
 Do zrobienia tej gry użyłem różnych assetów ze sklepu Unity.<br>
+Gra nazywa się Inwazja Komsomsu.<br>
+Jest ona mało skomplikowana pod względem funkcjonalności.<br>
+Polega na eliminowaniu przeciwników a przy tym zwiększania swojego wyniku.<br>
 ## Galeria
 Menu Główne<br>
 <img src = "MainMenu.PNG">
