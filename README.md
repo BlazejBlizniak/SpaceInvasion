@@ -14,6 +14,6 @@ Pauza<br>
 Koniec<br>
 <img src = "GameOver.PNG">
 Głóna Kamera<br>
-<img src = "MainCamera.PNG">
+<img src = "MainCam.PNG">
 Przykładowy Skrypt<br>
 <img src = "ScriptExample.PNG">
